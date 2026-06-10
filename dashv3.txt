@@ -819,64 +819,6 @@ Abrir consola
 
     </div>
 
-        <!-- TELMEX -->
-
-    <div class="card" data-category="accesos">
-
-        <div class="status"></div>
-
-        <div class="card-icon">
-            <i class="fa-solid fa-globe"></i>
-        </div>
-
-        <h3>Telmex</h3>
-
-        <p>
-            Portal de acceso a Mi Telmex para descarga de factura y consulta de servicios.
-        </p>
-
-        <div class="tags">
-            <span>Telefonía</span>
-        </div>
-
-        <button onclick="openConsole('http://www.unicom.mx/')">
-
-            Abrir herramienta
-            <i class="fa-solid fa-arrow-up-right-from-square"></i>
-
-        </button>
-
-    </div>
-
-        <!-- TELCEL -->
-
-    <div class="card" data-category="accesos">
-
-        <div class="status"></div>
-
-        <div class="card-icon">
-            <i class="fa-solid fa-user"></i>
-        </div>
-
-        <h3>Telcel</h3>
-
-        <p>
-            Portal de acceso a Mi Telcel Empresas.
-        </p>
-
-        <div class="tags">
-            <span>Telefonía</span>
-        </div>
-
-        <button onclick="openConsole('https://empresas.mitelcel.com/v2/login')">
-
-            Abrir herramienta
-            <i class="fa-solid fa-arrow-up-right-from-square"></i>
-
-        </button>
-
-    </div>
-
 </div>
 
 <!-- =========================
@@ -917,7 +859,7 @@ Abrir consola
             
         </div>
 
-        <button onclick="openConsole('http://192.168.1.139/')">
+        <button onclick="openConsole('https://192.168.1.139/')">
 
             Abrir herramienta
             <i class="fa-solid fa-arrow-up-right-from-square"></i>
